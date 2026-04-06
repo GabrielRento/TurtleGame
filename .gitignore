@@ -1,0 +1,93 @@
+# =========================
+# UNITY GENERATED FOLDERS
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures can get excessive in size
+MemoryCaptures/
+
+# Asset meta data should stay, but ignore cache
+Library/ArtifactDB
+Library/ShaderCache
+Library/PackageCache
+
+# =========================
+# IDE / EDITOR FILES
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# BUILDS
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+
+# =========================
+# LOG FILES
+# =========================
+*.log
+
+# =========================
+# CACHE / TEMP
+# =========================
+*.cache
+*.bak
+*.backup
+*.old
+
+# =========================
+# UNITY ADDRESSABLES / GENERATED
+# =========================
+ServerData/
+StreamingAssets/aa.meta
+
+# =========================
+# DOTS / BURST CACHE (IMPORTANTE)
+# =========================
+[Bb]urstCache/
+[Bb]urstDebugInformation/
+
+# =========================
+# IL2CPP
+# =========================
+il2cpp_cache/
+
+# =========================
+# CLOUD BUILD
+# =========================
+sysinfo.txt
